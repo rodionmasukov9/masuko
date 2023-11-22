@@ -1,0 +1,2 @@
+ logger.success(f'Готово! Таблица сохранена в {file_excel}')
+    logger.info(f'Затрачено времени: {round((time() - start_time) / 60, 1)} мин.\n')
